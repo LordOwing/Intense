@@ -7,16 +7,17 @@
     android:gravity="center">
     <TextView
         android:id="@+id/tekst"
+        android:textSize="24dp"
         android:layout_marginTop="20dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Cos tam cos tam"/>
+        android:text="Witaj na pierwszym ekranie"/>
     <Button
         android:id="@+id/guzik"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Cos"
-
+        android:text="Przejdź na drugi ekran"
+        android:layout_gravity="center"
 
         />
 

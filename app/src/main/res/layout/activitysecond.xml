@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center">
+    <TextView
+        android:id="@+id/tekst"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Cos tam cos tam"/>
+    <Button
+        android:id="@+id/guzik"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Drugie cos"
+
+
+        />
+
+</LinearLayout>
